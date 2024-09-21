@@ -1,2 +1,1 @@
-【DMA固件之writemask真实值探测脚本使用教程】 https://www.bilibili.com/video/BV1GTHbe7Eqb/?share_source=copy_web&vd_source=92fa569436f723c5d46bfd3c2c610938
-![Uploading PW3I}C[OXRVX({~CWWNDE9A.png…]()
+【DMA固件之writemask真实值探测脚本使用教程】 【DMA固件制作进阶之任意PCI设备writemask提取与验证。-哔哩哔哩】 https://b23.tv/11twD5Y
